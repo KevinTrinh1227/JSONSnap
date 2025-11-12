@@ -1,4 +1,4 @@
-<!-- devfoliox-project
+<!-- devfoliox
 {
   "title": "JSONSnap",
   "summary": "A tiny utility for quickly viewing, formatting, and sharing JSON snapshots during development.",
