@@ -1,14 +1,14 @@
 <!-- devfoliox
 {
   "title": "JSONSnap",
-  "summary": "A tiny utility for quickly viewing, formatting, and sharing JSON snapshots during development.",
+  "summary": "A React.js front-end portfolio template designed for developers who want a clean and flexible personal site.",
   "description": [
-    "JSONSnap makes it easy to paste in JSON, pretty-print it, and share or store snapshots while debugging APIs or webhooks.",
-    "It is aimed at students and developers who want a lightweight JSON helper instead of a full-blown API client."
+    "Reactfolio is a customizable portfolio template built with React and modern tooling, focused on a smooth UX and clean, responsive layout.",
+    "It’s structured for easy editing, so students and developers can quickly plug in their own projects, experience, and contact info."
   ],
-  "technologies": ["TypeScript", "React", "Next.js"],
-  "start": "Nov 2024",
-  "end": "Present",
+  "technologies": ["React", "JavaScript", "CSS"],
+  "start": "Sep 2023",
+  "end": "Dec 2023",
 
   "stats_stars": true,
   "stats_forks": true,
@@ -16,13 +16,18 @@
 
   "links": [
     {
+      "label": "Live Demo",
+      "href": "https://your-reactfolio-demo-url.com",
+      "type": "live"
+    },
+    {
       "label": "Source",
-      "href": "https://github.com/KevinTrinh1227/JSONSnap",
+      "href": "https://github.com/KevinTrinh1227/Reactfolio",
       "type": "github"
     },
     {
       "label": "Docs",
-      "href": "https://github.com/KevinTrinh1227/JSONSnap#readme",
+      "href": "https://github.com/KevinTrinh1227/Reactfolio",
       "type": "docs"
     }
   ]
