@@ -1,3 +1,35 @@
+<!-- devfoliox-project
+{
+  "title": "JSONSnap",
+  "summary": "A tiny utility for quickly viewing, formatting, and sharing JSON snapshots during development.",
+  "description": [
+    "JSONSnap makes it easy to paste in JSON, pretty-print it, and share or store snapshots while debugging APIs or webhooks.",
+    "It is aimed at students and developers who want a lightweight JSON helper instead of a full-blown API client."
+  ],
+  "technologies": ["TypeScript", "React", "Next.js"],
+  "start": "Nov 2024",
+  "end": "Present",
+
+  "stats_stars": true,
+  "stats_forks": true,
+  "stats_downloads": false,
+
+  "links": [
+    {
+      "label": "Source",
+      "href": "https://github.com/KevinTrinh1227/JSONSnap",
+      "type": "github"
+    },
+    {
+      "label": "Docs",
+      "href": "https://github.com/KevinTrinh1227/JSONSnap#readme",
+      "type": "docs"
+    }
+  ]
+}
+-->
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
